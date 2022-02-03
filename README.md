@@ -1,2 +1,2 @@
-# Exquisite-corpse-Your-Name
+# Exquisite-corpse-Obkiche
 Exercise1
