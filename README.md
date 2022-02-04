@@ -1,2 +1,7 @@
 # Exquisite-corpse-Obkiche
-Exercise1
+##This my story
+
+###Try other styles
+####This an other one
+####The same
+####Without fault
